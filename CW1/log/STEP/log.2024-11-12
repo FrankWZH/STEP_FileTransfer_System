@@ -1,0 +1,249 @@
+[0;34m2024-11-10 22:00:57-STEP[INFO] Server is ready! @ Server.py[800][0m
+[0;34m2024-11-10 22:00:57-STEP[INFO] Start the TCP service, listing 1379 on IP All available @ Server.py[801][0m
+[0;34m2024-11-11 11:45:12-STEP[INFO] Server is ready! @ Server.py[800][0m
+[0;34m2024-11-11 11:45:12-STEP[INFO] Start the TCP service, listing 1379 on IP All available @ Server.py[801][0m
+[0;34m2024-11-11 11:45:16-STEP[INFO] --> New connection from 127.0.0.1 on 56305 @ Server.py[807][0m
+[0;34m2024-11-11 12:25:32-STEP[INFO] Server is ready! @ Server.py[800][0m
+[0;34m2024-11-11 12:25:32-STEP[INFO] Start the TCP service, listing 1379 on IP All available @ Server.py[801][0m
+[0;34m2024-11-11 12:25:37-STEP[INFO] --> New connection from 127.0.0.1 on 56453 @ Server.py[807][0m
+[0;34m2024-11-11 12:25:37-STEP[WARNING] Connection is closed by client. @ Server.py[656][0m
+[0;34m2024-11-11 12:25:37-STEP[INFO] Connection close. ('127.0.0.1', 56453) @ Server.py[785][0m
+[0;34m2024-11-11 12:27:14-STEP[INFO] --> New connection from 127.0.0.1 on 56474 @ Server.py[807][0m
+[0;34m2024-11-11 12:27:18-STEP[WARNING] Connection is closed by client. @ Server.py[656][0m
+[0;34m2024-11-11 12:27:18-STEP[INFO] Connection close. ('127.0.0.1', 56474) @ Server.py[785][0m
+[0;34m2024-11-11 12:27:51-STEP[INFO] Server is ready! @ Server.py[800][0m
+[0;34m2024-11-11 12:27:51-STEP[INFO] Start the TCP service, listing 1379 on IP All available @ Server.py[801][0m
+[0;34m2024-11-11 12:27:54-STEP[INFO] --> New connection from 127.0.0.1 on 56481 @ Server.py[807][0m
+[0;34m2024-11-11 12:28:08-STEP[WARNING] Connection is closed by client. @ Server.py[656][0m
+[0;34m2024-11-11 12:28:08-STEP[INFO] Connection close. ('127.0.0.1', 56481) @ Server.py[785][0m
+[0;34m2024-11-11 12:36:03-STEP[INFO] --> New connection from 127.0.0.1 on 56559 @ Server.py[807][0m
+[0;34m2024-11-11 12:36:07-STEP[WARNING] Connection is closed by client. @ Server.py[656][0m
+[0;34m2024-11-11 12:36:07-STEP[INFO] Connection close. ('127.0.0.1', 56559) @ Server.py[785][0m
+[0;34m2024-11-11 12:40:30-STEP[INFO] --> New connection from 127.0.0.1 on 56597 @ Server.py[807][0m
+[0;34m2024-11-11 12:40:33-STEP[WARNING] Connection is closed by client. @ Server.py[656][0m
+[0;34m2024-11-11 12:40:33-STEP[INFO] Connection close. ('127.0.0.1', 56597) @ Server.py[785][0m
+[0;34m2024-11-11 20:22:24-STEP[INFO] --> New connection from 127.0.0.1 on 59716 @ Server.py[807][0m
+[0;34m2024-11-11 20:22:34-STEP[INFO] Server is ready! @ Server.py[801][0m
+[0;34m2024-11-11 20:22:34-STEP[INFO] Start the TCP service, listing 1379 on IP All available @ Server.py[802][0m
+[0;34m2024-11-11 20:23:29-STEP[INFO] Server is ready! @ Server.py[801][0m
+[0;34m2024-11-11 20:23:29-STEP[INFO] Start the TCP service, listing 1379 on IP All available @ Server.py[802][0m
+[0;34m2024-11-11 20:23:35-STEP[INFO] Server is ready! @ Server.py[801][0m
+[0;34m2024-11-11 20:23:35-STEP[INFO] Start the TCP service, listing 1379 on IP All available @ Server.py[802][0m
+[0;34m2024-11-11 20:23:47-STEP[INFO] --> New connection from 127.0.0.1 on 59735 @ Server.py[808][0m
+[0;34m2024-11-11 20:23:50-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 20:23:50-STEP[INFO] Connection close. ('127.0.0.1', 59735) @ Server.py[786][0m
+[0;34m2024-11-11 20:24:11-STEP[INFO] --> New connection from 127.0.0.1 on 59738 @ Server.py[808][0m
+[0;34m2024-11-11 20:24:14-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 20:24:14-STEP[INFO] Connection close. ('127.0.0.1', 59738) @ Server.py[786][0m
+[0;34m2024-11-11 20:24:49-STEP[INFO] --> New connection from 127.0.0.1 on 59745 @ Server.py[808][0m
+[0;34m2024-11-11 20:24:52-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 20:24:52-STEP[INFO] Connection close. ('127.0.0.1', 59745) @ Server.py[786][0m
+[0;34m2024-11-11 20:25:39-STEP[INFO] --> New connection from 127.0.0.1 on 59758 @ Server.py[808][0m
+[0;34m2024-11-11 20:25:43-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 20:25:43-STEP[INFO] Connection close. ('127.0.0.1', 59758) @ Server.py[786][0m
+[0;34m2024-11-11 20:25:58-STEP[INFO] --> New connection from 127.0.0.1 on 59759 @ Server.py[808][0m
+[0;34m2024-11-11 20:26:01-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 20:26:01-STEP[INFO] Connection close. ('127.0.0.1', 59759) @ Server.py[786][0m
+[0;34m2024-11-11 20:27:52-STEP[INFO] --> New connection from 127.0.0.1 on 59785 @ Server.py[808][0m
+[0;34m2024-11-11 20:27:54-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 20:27:54-STEP[INFO] Connection close. ('127.0.0.1', 59785) @ Server.py[786][0m
+[0;34m2024-11-11 20:34:44-STEP[INFO] --> New connection from 127.0.0.1 on 59851 @ Server.py[808][0m
+[0;34m2024-11-11 20:34:47-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 20:34:47-STEP[INFO] Connection close. ('127.0.0.1', 59851) @ Server.py[786][0m
+[0;34m2024-11-11 20:35:03-STEP[INFO] --> New connection from 127.0.0.1 on 59862 @ Server.py[808][0m
+[0;34m2024-11-11 20:35:06-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 20:35:06-STEP[INFO] Connection close. ('127.0.0.1', 59862) @ Server.py[786][0m
+[0;34m2024-11-11 20:36:19-STEP[INFO] --> New connection from 127.0.0.1 on 59882 @ Server.py[808][0m
+[0;34m2024-11-11 20:36:23-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 20:36:23-STEP[INFO] Connection close. ('127.0.0.1', 59882) @ Server.py[786][0m
+[0;34m2024-11-11 20:36:55-STEP[INFO] --> New connection from 127.0.0.1 on 59889 @ Server.py[808][0m
+[0;34m2024-11-11 20:36:58-STEP[INFO] --> Plan to save/upload a file with key "67a4313b-3245-4fbe-b972-a7ca32f0d83d" @ Server.py[393][0m
+[0;34m2024-11-11 20:36:58-STEP[ERROR] <-- Upload plan: key 67a4313b-3245-4fbe-b972-a7ca32f0d83d, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-11 20:36:58-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 20:36:58-STEP[INFO] Connection close. ('127.0.0.1', 59889) @ Server.py[786][0m
+[0;34m2024-11-11 20:56:35-STEP[INFO] --> New connection from 127.0.0.1 on 60111 @ Server.py[808][0m
+[0;34m2024-11-11 20:56:38-STEP[INFO] --> Plan to save/upload a file with key "ed568eab-c7cd-4de6-9506-878d73fa74ae" @ Server.py[393][0m
+[0;34m2024-11-11 20:56:38-STEP[ERROR] <-- Upload plan: key ed568eab-c7cd-4de6-9506-878d73fa74ae, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-11 20:56:38-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 20:56:38-STEP[INFO] Connection close. ('127.0.0.1', 60111) @ Server.py[786][0m
+[0;34m2024-11-11 22:13:13-STEP[INFO] --> New connection from 127.0.0.1 on 60830 @ Server.py[808][0m
+[0;34m2024-11-11 22:13:16-STEP[INFO] --> Plan to save/upload a file with key "9e8b1912-b01a-4235-9520-c549736c75ba" @ Server.py[393][0m
+[0;34m2024-11-11 22:13:16-STEP[ERROR] <-- Upload plan: key 9e8b1912-b01a-4235-9520-c549736c75ba, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-11 22:13:16-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 22:13:16-STEP[INFO] Connection close. ('127.0.0.1', 60830) @ Server.py[786][0m
+[0;34m2024-11-11 22:15:42-STEP[INFO] --> New connection from 127.0.0.1 on 60845 @ Server.py[808][0m
+[0;34m2024-11-11 22:15:44-STEP[INFO] --> Plan to save/upload a file with key "bfbe0001-bae4-42e0-823e-0e39596158ba" @ Server.py[393][0m
+[0;34m2024-11-11 22:15:44-STEP[ERROR] <-- Upload plan: key bfbe0001-bae4-42e0-823e-0e39596158ba, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-11 22:15:44-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 22:15:44-STEP[INFO] Connection close. ('127.0.0.1', 60845) @ Server.py[786][0m
+[0;34m2024-11-11 22:18:53-STEP[INFO] --> New connection from 127.0.0.1 on 60852 @ Server.py[808][0m
+[0;34m2024-11-11 22:18:57-STEP[INFO] --> Plan to save/upload a file with key "f82df24a-803f-445c-9bb9-52fd66728bb7" @ Server.py[393][0m
+[0;34m2024-11-11 22:18:57-STEP[ERROR] <-- Upload plan: key f82df24a-803f-445c-9bb9-52fd66728bb7, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-11 22:18:57-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 22:18:57-STEP[INFO] Connection close. ('127.0.0.1', 60852) @ Server.py[786][0m
+[0;34m2024-11-11 22:19:59-STEP[INFO] --> New connection from 127.0.0.1 on 60857 @ Server.py[808][0m
+[0;34m2024-11-11 22:20:03-STEP[INFO] --> Plan to save/upload a file with key "278943e8-5dba-4cf2-baed-5a0e55d27440" @ Server.py[393][0m
+[0;34m2024-11-11 22:20:03-STEP[ERROR] <-- Upload plan: key 278943e8-5dba-4cf2-baed-5a0e55d27440, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-11 22:20:03-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 22:20:03-STEP[INFO] Connection close. ('127.0.0.1', 60857) @ Server.py[786][0m
+[0;34m2024-11-11 22:21:33-STEP[INFO] --> New connection from 127.0.0.1 on 60864 @ Server.py[808][0m
+[0;34m2024-11-11 22:21:37-STEP[INFO] --> Plan to save/upload a file with key "5397b7bb-0bef-400b-8dd7-428a72e61127" @ Server.py[393][0m
+[0;34m2024-11-11 22:21:37-STEP[ERROR] <-- Upload plan: key 5397b7bb-0bef-400b-8dd7-428a72e61127, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-11 22:21:37-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 22:21:37-STEP[INFO] Connection close. ('127.0.0.1', 60864) @ Server.py[786][0m
+[0;34m2024-11-11 22:24:39-STEP[INFO] --> New connection from 127.0.0.1 on 60870 @ Server.py[808][0m
+[0;34m2024-11-11 22:24:41-STEP[INFO] --> Plan to save/upload a file with key "1f2d0c06-0daf-482b-a5ef-df29c145f253" @ Server.py[393][0m
+[0;34m2024-11-11 22:24:41-STEP[ERROR] <-- Upload plan: key 1f2d0c06-0daf-482b-a5ef-df29c145f253, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-11 22:24:41-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 22:24:41-STEP[INFO] Connection close. ('127.0.0.1', 60870) @ Server.py[786][0m
+[0;34m2024-11-11 22:26:05-STEP[INFO] --> New connection from 127.0.0.1 on 60877 @ Server.py[808][0m
+[0;34m2024-11-11 22:26:08-STEP[INFO] --> Plan to save/upload a file with key "2bcc5a01-2edd-456e-af74-60995417cc66" @ Server.py[393][0m
+[0;34m2024-11-11 22:26:08-STEP[ERROR] <-- Upload plan: key 2bcc5a01-2edd-456e-af74-60995417cc66, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-11 22:26:08-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 22:26:08-STEP[INFO] Connection close. ('127.0.0.1', 60877) @ Server.py[786][0m
+[0;34m2024-11-11 22:28:49-STEP[INFO] --> New connection from 127.0.0.1 on 60883 @ Server.py[808][0m
+[0;34m2024-11-11 22:28:52-STEP[INFO] --> Plan to save/upload a file with key "1d65645c-9604-41ee-a395-4367f158efec" @ Server.py[393][0m
+[0;34m2024-11-11 22:28:52-STEP[ERROR] <-- Upload plan: key 1d65645c-9604-41ee-a395-4367f158efec, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-11 22:28:52-STEP[INFO] --> Upload file/block without any key. @ Server.py[482][0m
+[0;34m2024-11-11 22:28:52-STEP[ERROR] <-- Field "key" is missing for FILE block uploading. @ Server.py[483][0m
+[0;34m2024-11-11 22:28:52-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 22:28:52-STEP[INFO] Connection close. ('127.0.0.1', 60883) @ Server.py[786][0m
+[0;34m2024-11-11 22:31:50-STEP[INFO] --> New connection from 127.0.0.1 on 60903 @ Server.py[808][0m
+[0;34m2024-11-11 22:31:53-STEP[INFO] --> Plan to save/upload a file with key "5d0cae9b-b4fb-46ca-bf85-a1a12ba8b6a2" @ Server.py[393][0m
+[0;34m2024-11-11 22:31:53-STEP[ERROR] <-- Upload plan: key 5d0cae9b-b4fb-46ca-bf85-a1a12ba8b6a2, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-11 22:31:53-STEP[INFO] --> Upload file/block of "key" 5d0cae9b-b4fb-46ca-bf85-a1a12ba8b6a2. @ Server.py[489][0m
+[0;34m2024-11-11 22:34:47-STEP[INFO] --> New connection from 127.0.0.1 on 60922 @ Server.py[808][0m
+[0;34m2024-11-11 22:34:49-STEP[INFO] --> Plan to save/upload a file with key "4061b9d7-4de9-4335-8ace-f6dc34d09da4" @ Server.py[393][0m
+[0;34m2024-11-11 22:34:49-STEP[ERROR] <-- Upload plan: key 4061b9d7-4de9-4335-8ace-f6dc34d09da4, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-11 22:34:49-STEP[INFO] --> Upload file/block of "key" 4061b9d7-4de9-4335-8ace-f6dc34d09da4. @ Server.py[489][0m
+[0;34m2024-11-11 22:34:49-STEP[ERROR] <-- The "block_size" is wrong. @ Server.py[533][0m
+[0;34m2024-11-11 22:34:49-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 22:34:49-STEP[INFO] Connection close. ('127.0.0.1', 60922) @ Server.py[786][0m
+[0;34m2024-11-11 22:37:23-STEP[INFO] --> New connection from 127.0.0.1 on 60929 @ Server.py[808][0m
+[0;34m2024-11-11 22:37:26-STEP[INFO] --> Plan to save/upload a file with key "d7710e2f-b47c-49c9-a5df-e38938f690c6" @ Server.py[393][0m
+[0;34m2024-11-11 22:37:26-STEP[ERROR] <-- Upload plan: key d7710e2f-b47c-49c9-a5df-e38938f690c6, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-11 22:37:26-STEP[INFO] --> Upload file/block of "key" d7710e2f-b47c-49c9-a5df-e38938f690c6. @ Server.py[489][0m
+[0;34m2024-11-11 22:37:26-STEP[ERROR] <-- The "block_size" is wrong. @ Server.py[533][0m
+[0;34m2024-11-11 22:37:26-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 22:37:26-STEP[INFO] Connection close. ('127.0.0.1', 60929) @ Server.py[786][0m
+[0;34m2024-11-11 22:37:37-STEP[INFO] --> New connection from 127.0.0.1 on 60930 @ Server.py[808][0m
+[0;34m2024-11-11 22:37:39-STEP[INFO] --> Plan to save/upload a file with key "ccc243b6-5edb-4967-860e-e4c5dc53ed9d" @ Server.py[393][0m
+[0;34m2024-11-11 22:37:39-STEP[ERROR] <-- Upload plan: key ccc243b6-5edb-4967-860e-e4c5dc53ed9d, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-11 22:37:39-STEP[INFO] --> Upload file/block of "key" ccc243b6-5edb-4967-860e-e4c5dc53ed9d. @ Server.py[489][0m
+[0;34m2024-11-11 22:37:39-STEP[ERROR] <-- The "block_size" is wrong. @ Server.py[533][0m
+[0;34m2024-11-11 22:37:39-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 22:37:39-STEP[INFO] Connection close. ('127.0.0.1', 60930) @ Server.py[786][0m
+[0;34m2024-11-11 22:38:29-STEP[INFO] Server is ready! @ Server.py[801][0m
+[0;34m2024-11-11 22:38:29-STEP[INFO] Start the TCP service, listing 1379 on IP All available @ Server.py[802][0m
+[0;34m2024-11-11 22:38:33-STEP[INFO] --> New connection from 127.0.0.1 on 60932 @ Server.py[808][0m
+[0;34m2024-11-11 22:38:36-STEP[INFO] --> Plan to save/upload a file with key "0d448d76-06ef-4a22-82d8-339760da1577" @ Server.py[393][0m
+[0;34m2024-11-11 22:38:36-STEP[ERROR] <-- Upload plan: key 0d448d76-06ef-4a22-82d8-339760da1577, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-11 22:38:36-STEP[INFO] --> Upload file/block of "key" 0d448d76-06ef-4a22-82d8-339760da1577. @ Server.py[489][0m
+[0;34m2024-11-11 22:38:36-STEP[ERROR] <-- The "block_size" is wrong. @ Server.py[533][0m
+[0;34m2024-11-11 22:38:36-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 22:38:36-STEP[INFO] Connection close. ('127.0.0.1', 60932) @ Server.py[786][0m
+[0;34m2024-11-11 22:39:59-STEP[INFO] Server is ready! @ Server.py[801][0m
+[0;34m2024-11-11 22:39:59-STEP[INFO] Start the TCP service, listing 1379 on IP All available @ Server.py[802][0m
+[0;34m2024-11-11 22:40:02-STEP[INFO] --> New connection from 127.0.0.1 on 60943 @ Server.py[808][0m
+[0;34m2024-11-11 22:40:05-STEP[INFO] --> Plan to save/upload a file with key "6b16d136-8bbe-4a9b-8cd0-6f5eee2ab5aa" @ Server.py[393][0m
+[0;34m2024-11-11 22:40:05-STEP[ERROR] <-- Upload plan: key 6b16d136-8bbe-4a9b-8cd0-6f5eee2ab5aa, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-11 22:40:05-STEP[INFO] --> Upload file/block of "key" 6b16d136-8bbe-4a9b-8cd0-6f5eee2ab5aa. @ Server.py[489][0m
+[0;34m2024-11-11 22:40:05-STEP[ERROR] <-- The "block_size" is wrong. @ Server.py[533][0m
+[0;34m2024-11-11 22:40:05-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-11 22:40:05-STEP[INFO] Connection close. ('127.0.0.1', 60943) @ Server.py[786][0m
+[0;34m2024-11-12 11:43:27-STEP[INFO] --> New connection from 127.0.0.1 on 61895 @ Server.py[808][0m
+[0;34m2024-11-12 11:43:31-STEP[INFO] --> Plan to save/upload a file with key "b36be685-9aba-4efa-9e5d-fec59c56e7e5" @ Server.py[393][0m
+[0;34m2024-11-12 11:43:31-STEP[ERROR] <-- Upload plan: key b36be685-9aba-4efa-9e5d-fec59c56e7e5, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-12 11:43:31-STEP[INFO] --> Upload file/block of "key" b36be685-9aba-4efa-9e5d-fec59c56e7e5. @ Server.py[489][0m
+[0;34m2024-11-12 11:43:31-STEP[ERROR] <-- The "block_size" is wrong. @ Server.py[533][0m
+[0;34m2024-11-12 11:43:31-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-12 11:43:31-STEP[INFO] Connection close. ('127.0.0.1', 61895) @ Server.py[786][0m
+[0;34m2024-11-12 12:00:05-STEP[INFO] --> New connection from 127.0.0.1 on 62056 @ Server.py[808][0m
+[0;34m2024-11-12 12:00:08-STEP[INFO] --> Plan to save/upload a file with key "25611f38-3f3f-40ea-8c1e-51ce9b23ad8e" @ Server.py[393][0m
+[0;34m2024-11-12 12:00:08-STEP[ERROR] <-- Upload plan: key 25611f38-3f3f-40ea-8c1e-51ce9b23ad8e, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-12 12:00:08-STEP[INFO] --> Upload file/block of "key" 25611f38-3f3f-40ea-8c1e-51ce9b23ad8e. @ Server.py[489][0m
+[0;34m2024-11-12 12:00:08-STEP[ERROR] <-- The "block_size" is wrong. @ Server.py[533][0m
+[0;34m2024-11-12 12:00:08-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-12 12:00:08-STEP[INFO] Connection close. ('127.0.0.1', 62056) @ Server.py[786][0m
+[0;34m2024-11-12 12:00:20-STEP[INFO] --> New connection from 127.0.0.1 on 62057 @ Server.py[808][0m
+[0;34m2024-11-12 12:00:22-STEP[INFO] --> Plan to save/upload a file with key "016e1a10-74aa-413b-81ad-40b16ae8e6d7" @ Server.py[393][0m
+[0;34m2024-11-12 12:00:22-STEP[ERROR] <-- Upload plan: key 016e1a10-74aa-413b-81ad-40b16ae8e6d7, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-12 12:00:22-STEP[INFO] --> Upload file/block of "key" 016e1a10-74aa-413b-81ad-40b16ae8e6d7. @ Server.py[489][0m
+[0;34m2024-11-12 12:00:22-STEP[ERROR] <-- The "block_size" is wrong. @ Server.py[533][0m
+[0;34m2024-11-12 12:00:22-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-12 12:00:22-STEP[INFO] Connection close. ('127.0.0.1', 62057) @ Server.py[786][0m
+[0;34m2024-11-12 12:00:51-STEP[INFO] --> New connection from 127.0.0.1 on 62068 @ Server.py[808][0m
+[0;34m2024-11-12 12:00:54-STEP[INFO] --> Plan to save/upload a file with key "131d7be0-227e-444a-bfe2-c7afc25c77f9" @ Server.py[393][0m
+[0;34m2024-11-12 12:00:54-STEP[ERROR] <-- Upload plan: key 131d7be0-227e-444a-bfe2-c7afc25c77f9, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-12 12:00:54-STEP[INFO] --> Upload file/block of "key" 131d7be0-227e-444a-bfe2-c7afc25c77f9. @ Server.py[489][0m
+[0;34m2024-11-12 12:00:54-STEP[ERROR] <-- The "block_size" is wrong. @ Server.py[533][0m
+[0;34m2024-11-12 12:00:54-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-12 12:00:54-STEP[INFO] Connection close. ('127.0.0.1', 62068) @ Server.py[786][0m
+[0;34m2024-11-12 12:01:01-STEP[INFO] --> New connection from 127.0.0.1 on 62073 @ Server.py[808][0m
+[0;34m2024-11-12 12:01:03-STEP[INFO] --> Plan to save/upload a file with key "b7c1afa4-48a4-44d0-b041-af734848306a" @ Server.py[393][0m
+[0;34m2024-11-12 12:01:03-STEP[ERROR] <-- Upload plan: key b7c1afa4-48a4-44d0-b041-af734848306a, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-12 12:01:03-STEP[INFO] --> Upload file/block of "key" b7c1afa4-48a4-44d0-b041-af734848306a. @ Server.py[489][0m
+[0;34m2024-11-12 12:01:03-STEP[ERROR] <-- The "block_size" is wrong. @ Server.py[533][0m
+[0;34m2024-11-12 12:01:03-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-12 12:01:03-STEP[INFO] Connection close. ('127.0.0.1', 62073) @ Server.py[786][0m
+[0;34m2024-11-12 12:08:11-STEP[INFO] --> New connection from 127.0.0.1 on 62131 @ Server.py[808][0m
+[0;34m2024-11-12 12:08:13-STEP[INFO] --> Plan to save/upload a file with key "6fb8528f-66b1-4943-8668-9e14193e22d7" @ Server.py[393][0m
+[0;34m2024-11-12 12:08:13-STEP[ERROR] <-- Upload plan: key 6fb8528f-66b1-4943-8668-9e14193e22d7, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-12 12:08:13-STEP[INFO] --> Upload file/block of "key" 6fb8528f-66b1-4943-8668-9e14193e22d7. @ Server.py[489][0m
+[0;34m2024-11-12 12:08:13-STEP[ERROR] <-- The "block_size" is wrong. @ Server.py[533][0m
+[0;34m2024-11-12 12:08:14-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-12 12:08:14-STEP[INFO] Connection close. ('127.0.0.1', 62131) @ Server.py[786][0m
+[0;34m2024-11-12 12:08:37-STEP[INFO] --> New connection from 127.0.0.1 on 62133 @ Server.py[808][0m
+[0;34m2024-11-12 12:08:39-STEP[INFO] --> Plan to save/upload a file with key "c9692e34-82db-4023-bb73-77dd3d5642dd" @ Server.py[393][0m
+[0;34m2024-11-12 12:08:39-STEP[ERROR] <-- Upload plan: key c9692e34-82db-4023-bb73-77dd3d5642dd, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-12 12:08:39-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-12 12:08:39-STEP[INFO] Connection close. ('127.0.0.1', 62133) @ Server.py[786][0m
+[0;34m2024-11-12 12:08:50-STEP[INFO] --> New connection from 127.0.0.1 on 62135 @ Server.py[808][0m
+[0;34m2024-11-12 12:08:53-STEP[INFO] --> Plan to save/upload a file with key "66344ec5-a885-47a7-9773-c62d64cd6cab" @ Server.py[393][0m
+[0;34m2024-11-12 12:08:53-STEP[ERROR] <-- Upload plan: key 66344ec5-a885-47a7-9773-c62d64cd6cab, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-12 12:08:53-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-12 12:08:53-STEP[INFO] Connection close. ('127.0.0.1', 62135) @ Server.py[786][0m
+[0;34m2024-11-12 12:09:27-STEP[INFO] --> New connection from 127.0.0.1 on 62137 @ Server.py[808][0m
+[0;34m2024-11-12 12:09:30-STEP[INFO] --> Plan to save/upload a file with key "20f19824-a5e1-46d9-99d7-27eb9fe8a246" @ Server.py[393][0m
+[0;34m2024-11-12 12:09:30-STEP[ERROR] <-- Upload plan: key 20f19824-a5e1-46d9-99d7-27eb9fe8a246, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-12 12:09:30-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-12 12:09:30-STEP[INFO] Connection close. ('127.0.0.1', 62137) @ Server.py[786][0m
+[0;34m2024-11-12 12:09:44-STEP[INFO] --> New connection from 127.0.0.1 on 62141 @ Server.py[808][0m
+[0;34m2024-11-12 12:09:46-STEP[INFO] --> Plan to save/upload a file with key "f0638879-38dd-4e17-9f0b-6b643a6fc3d9" @ Server.py[393][0m
+[0;34m2024-11-12 12:09:46-STEP[ERROR] <-- Upload plan: key f0638879-38dd-4e17-9f0b-6b643a6fc3d9, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-12 12:09:46-STEP[INFO] --> Upload file/block of "key" f0638879-38dd-4e17-9f0b-6b643a6fc3d9. @ Server.py[489][0m
+[0;34m2024-11-12 12:09:46-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-12 12:09:46-STEP[INFO] Connection close. ('127.0.0.1', 62141) @ Server.py[786][0m
+[0;34m2024-11-12 12:11:39-STEP[INFO] --> New connection from 127.0.0.1 on 62156 @ Server.py[808][0m
+[0;34m2024-11-12 12:11:42-STEP[INFO] --> Plan to save/upload a file with key "71fd02a8-debf-4bed-a8a3-f0855777875c" @ Server.py[393][0m
+[0;34m2024-11-12 12:11:42-STEP[ERROR] <-- Upload plan: key 71fd02a8-debf-4bed-a8a3-f0855777875c, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-12 12:11:42-STEP[INFO] --> Upload file/block of "key" 71fd02a8-debf-4bed-a8a3-f0855777875c. @ Server.py[489][0m
+[0;34m2024-11-12 12:11:42-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-12 12:11:42-STEP[INFO] Connection close. ('127.0.0.1', 62156) @ Server.py[786][0m
+[0;34m2024-11-12 13:24:31-STEP[INFO] --> New connection from 127.0.0.1 on 62470 @ Server.py[808][0m
+[0;34m2024-11-12 13:24:35-STEP[INFO] --> Plan to save/upload a file with key "890d8a98-9ade-4133-9b5c-14b9ee2f01ff" @ Server.py[393][0m
+[0;34m2024-11-12 13:24:35-STEP[ERROR] <-- Upload plan: key 890d8a98-9ade-4133-9b5c-14b9ee2f01ff, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-12 13:24:35-STEP[INFO] --> Upload file/block of "key" 890d8a98-9ade-4133-9b5c-14b9ee2f01ff. @ Server.py[489][0m
+[0;34m2024-11-12 13:24:35-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-12 13:24:35-STEP[INFO] Connection close. ('127.0.0.1', 62470) @ Server.py[786][0m
+[0;34m2024-11-12 13:28:13-STEP[INFO] --> New connection from 127.0.0.1 on 62505 @ Server.py[808][0m
+[0;34m2024-11-12 13:28:16-STEP[INFO] --> Plan to save/upload a file with key "8439e67e-460b-42b8-8d0b-e2d7544a4457" @ Server.py[393][0m
+[0;34m2024-11-12 13:28:16-STEP[ERROR] <-- Upload plan: key 8439e67e-460b-42b8-8d0b-e2d7544a4457, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-12 13:28:16-STEP[INFO] --> Upload file/block of "key" 8439e67e-460b-42b8-8d0b-e2d7544a4457. @ Server.py[489][0m
+[0;34m2024-11-12 13:28:16-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-12 13:28:16-STEP[INFO] Connection close. ('127.0.0.1', 62505) @ Server.py[786][0m
+[0;34m2024-11-12 13:34:25-STEP[INFO] --> New connection from 127.0.0.1 on 62559 @ Server.py[808][0m
+[0;34m2024-11-12 13:34:28-STEP[INFO] --> Plan to save/upload a file with key "e267a32c-1010-4052-acb4-a559173bf5ea" @ Server.py[393][0m
+[0;34m2024-11-12 13:34:28-STEP[ERROR] <-- Upload plan: key e267a32c-1010-4052-acb4-a559173bf5ea, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-12 13:34:28-STEP[INFO] --> Upload file/block of "key" e267a32c-1010-4052-acb4-a559173bf5ea. @ Server.py[489][0m
+[0;34m2024-11-12 13:34:28-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-12 13:34:28-STEP[INFO] Connection close. ('127.0.0.1', 62559) @ Server.py[786][0m
+[0;34m2024-11-13 04:38:18-STEP[INFO] Server is ready! @ Server.py[801][0m
+[0;34m2024-11-13 04:38:18-STEP[INFO] Start the TCP service, listing 1379 on IP All available @ Server.py[802][0m
+[0;34m2024-11-13 04:38:22-STEP[INFO] --> New connection from 127.0.0.1 on 50194 @ Server.py[808][0m
+[0;34m2024-11-13 04:38:27-STEP[INFO] --> Plan to save/upload a file with key "59918fca-3f06-4c06-8938-c975ad77efd3" @ Server.py[393][0m
+[0;34m2024-11-13 04:38:27-STEP[ERROR] <-- Upload plan: key 59918fca-3f06-4c06-8938-c975ad77efd3, total block number 1, block size 20480. @ Server.py[427][0m
+[0;34m2024-11-13 04:38:27-STEP[INFO] --> Upload file/block of "key" 59918fca-3f06-4c06-8938-c975ad77efd3. @ Server.py[489][0m
+[0;34m2024-11-13 04:38:27-STEP[WARNING] Connection is closed by client. @ Server.py[657][0m
+[0;34m2024-11-13 04:38:27-STEP[INFO] Connection close. ('127.0.0.1', 50194) @ Server.py[786][0m
+[0;34m2024-11-13 11:16:08-STEP[INFO] --> New connection from 127.0.0.1 on 50851 @ Server.py[808][0m
