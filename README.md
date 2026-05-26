@@ -182,5 +182,10 @@ This project is for **educational purposes only** and is not intended for produc
 
 MIT License (to be added)
 
-```
-```
+---
+
+<div align="center">
+
+## ⭐ If you find this project useful, consider giving it a star!
+
+</div>
