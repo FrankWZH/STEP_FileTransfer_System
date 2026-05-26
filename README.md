@@ -167,7 +167,8 @@ This project was developed for learning purposes, focusing on:
 
 | Name      | GitHub    | Role           |
 | --------- | --------- | -------------- |
-| Zihang Wu | @FrankWZH | Sole Developer |
+| Zihang Wu | [@FrankWZH](https://github.com/FrankWZH) | Sole Developer |
+
 
 ---
 
